@@ -37,7 +37,8 @@ GIF created with Quicktime
 
 One of the biggest challenge of building the app was making sure that the storyboard Elements were connected to ViewController. 
 This was a challenge because if the elements were not connected then the app would not work. However, with more experience using this
-app, it would be easier to design and figure out how to make the developing project of an app more appealing.
+app, it would be easier to design and figure out how to make the developing project of an app more appealing. In addition, going through
+the tutorial was fairly easy but learning how to code with Swift overtime would be a great experience.
 
 ## License
 
